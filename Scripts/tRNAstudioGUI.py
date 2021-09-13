@@ -7,7 +7,7 @@ GUI Interface Integrated pipeline for the analisis of tRNA-Seq Datasets (tRNAstu
 
 
 ###############################################################################
-print ('\n'+'############# tRNAstudio ###############'+'\n')
+print ('\n'+'############# tRNAAAAAstudio ###############'+'\n')
 
 # Built-in/Generic Imports #
 
